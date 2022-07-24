@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 function FeedbackStats({ feedback }) {
   let calcAverage =
     feedback.reduce((prev, curr) => {
@@ -13,5 +15,9 @@ function FeedbackStats({ feedback }) {
     </div>
   );
 }
+
+FeedbackStats.propTypes = {
+  feedback: PropTypes.array,
+};
 
 export default FeedbackStats;
