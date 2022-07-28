@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "text": "no ur name is oriel",
+      "rating": 9,
+      "id": 1
+    },
+    {
+      "text": "hi my name is weird",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "text": "hi i am not weird",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "text": "hi u are weird asf",
+      "rating": 10,
+      "id": 4
+    },
+    {
+      "text": "hi u are weirder than the turk lmaooo",
+      "rating": 8,
+      "id": 5
+    }
+  ]
+}
